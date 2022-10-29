@@ -402,7 +402,7 @@ div .twitter,
   margin-top: 20px;
 }
 
-.link:hover,
+.link:hover svg,
 .link:focus svg {
   fill: #2196f3;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
